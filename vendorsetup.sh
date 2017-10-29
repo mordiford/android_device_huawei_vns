@@ -1,1 +1,1 @@
-add_lunch_combo lineage_vns-userdebug
+add_lunch_combo aicp_vns-userdebug
